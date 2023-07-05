@@ -1,1 +1,22 @@
-﻿
+﻿Link to unlisted YouTube video:
+https://youtu.be/0CbV3Izi9ic
+
+
+Public link to the slide (Anyone on the internet can view without login):
+https://docs.google.com/presentation/d/1NbnlY4mslk1R1YWMMBLfbUB9hsNyc4eqje-l8UCN_CE/edit?usp=sharing
+
+
+Paper title:
+A HYBRID APPROACH BASED ON DEEP CNN & MACHINE CLASSIFIERS FOR BRAIN TUMOUR SEGMENTATION 
+
+
+Link to the paper:
+https://doi.org/10.1155/2022/6446680
+
+
+Group Number:
+35
+
+
+Individual Submitter:
+21301110 Azanuzzaman Bhuiya
